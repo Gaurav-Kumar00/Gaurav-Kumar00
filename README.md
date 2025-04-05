@@ -10,19 +10,33 @@
 
 
 <h4 align="center">Explore my work on my <a href="https://gaurav-kumar00.github.io/dev-portfolio/" target="_black">Portfolio 🌱.</a></h4>
+<br/>
 
 ### 🌞 About me :
-<img align="right" src="https://i.gifer.com/39Cg.gif" width="30%" />
+<img align="right" src="https://i.gifer.com/39Cg.gif" width="27%" margin-top="-100px"/>
 
  - 🎓 Sophomore at **Indian Institute of Information Technology, Bhopal**
  - 🔭 I’m currently working on **MERN PROJECTS**
  - 🌱 I’m currently learning **Full Stack, DSA and CP**
  - 🤝 I’m looking to collaborate on **Web development projects**
  - 📧 Reach me at: gk94129@gmail.com
- <br>
+ <br />
+ <br />
+ 
  
 ## 🌐 Reach me at :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kumar-9b5689250/)
 [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=Gmail&logoColor=white)](mailto:gk94129@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaurav.__.kumar_) 
 <br><br>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,html,javascript,css" />
+  <br/>
+    <img src="https://skillicons.dev/icons?i=github,figma,git,nodejs,bash,mongodb,c,cpp,postman,mysql,vscode" /><br>
+</div>
+
+
+<br/>
