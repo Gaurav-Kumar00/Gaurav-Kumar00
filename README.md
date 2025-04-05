@@ -1,6 +1,6 @@
 <p align="center">
 <!--    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=MERN%20Developer&textBg=false" /> -->
-   <img src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM4NjM1ODUsIm5iZiI6MTc0Mzg2MzI4NSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA1VDE0MjgwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkMGY4NDkxOGQyZjFkZGFhZjg5NjNjMTJiNDk3MWQ4OTkxODBhZmQxYWEyZDBkMzQ5ZDNkZGI2MmFlOGExNWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.n__3wfv-gn-mdQLhnpgRk8InIpxU6PMgu1wXCff2Xys" width="80%"/>
+   <img src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM4NjM1ODUsIm5iZiI6MTc0Mzg2MzI4NSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA1VDE0MjgwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkMGY4NDkxOGQyZjFkZGFhZjg5NjNjMTJiNDk3MWQ4OTkxODBhZmQxYWEyZDBkMzQ5ZDNkZGI2MmFlOGExNWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.n__3wfv-gn-mdQLhnpgRk8InIpxU6PMgu1wXCff2Xys"/>
 </p>
 
 
@@ -12,7 +12,7 @@
 <h4 align="center">Explore my work on my <a href="https://gaurav-kumar00.github.io/dev-portfolio/" target="_black">Portfolio 🌱.</a></h4>
 
 ### 🌞 About me :
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="40%" height="40%"/>
+<img align="right" src="https://i.gifer.com/39Cg.gif" width="30%" />
 
  - 🎓 Sophomore at **Indian Institute of Information Technology, Bhopal**
  - 🔭 I’m currently working on **MERN PROJECTS**
